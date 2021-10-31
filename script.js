@@ -21,3 +21,4 @@ const mohit = {
     name = `Mohit Ahlawat`,
     passort = 12342554
 }
+const num=1+2;
