@@ -13,7 +13,6 @@ const createbooking = function (
   console.log(booking);
 };
 
-createbooking('IN123');
 createbooking('IN123', 100);
 ////////////////////////////
 const flight = 'IN123';
